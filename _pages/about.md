@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle:  Assistant Professor | Lecturer<br><a href='https://www.ucc.ie/en/compsci/'>School of Computer Science and Information Technology</a> <br><a href='https://www.ucc.ie/en/'>University College Cork, Ireland 
 
