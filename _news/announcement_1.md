@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Kickoff of our new project  <a href="https://ieeexplore.ieee.org/abstract/document/10251791">SuHSI</a> :sparkles:
+Kickoff of our new project  <a href="https://www.ierc.ie/research/suhsi/">SuHSI</a> :sparkles:
