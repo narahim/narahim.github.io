@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 header:  Selected Publications
-description: For full publication list, please visit my  . 
+description: For full list of publications, please visit  my <a href='https://scholar.google.com/citations?user=e2-JJtoAAAAJ&hl=en'>  Google Scholar page. 
 nav: true
 nav_order: 2
 ---
