@@ -204,7 +204,6 @@ kramdown:
 include: ["_pages"]
 exclude:
   - _pages/repositories.md
-  - _pages/dropdown.md
   - _pages/blog.md
   - _pages/cv.md
   - _pages/profiles.md
@@ -377,7 +376,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: true # enables google analytics
+enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
