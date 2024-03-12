@@ -18,7 +18,7 @@ related_publications: true
   <li style="color: #666; margin-bottom: 10px;">&#10003; <a href="/projects/Sem-Com-V2X/">Semantic communications for vehicular networks</a>
 </li>
   <li style="color: #666; margin-bottom: 10px;">&#10003; <a href="/projects/Multi-link-V2X/">mmWave/THz-enabled V2X communications</a> </li>
-  <li style="color: #666; margin-bottom: 10px;">&#10003; UAV-/Satellite-assisted vehicular networks</li>
+  <li style="color: #666; margin-bottom: 10px;">&#10003;  <a href="https://ieeexplore.ieee.org/abstract/document/9779322">UAV-/Satellite-assisted vehicular networks</a> </li>
 </ul>
 
 
