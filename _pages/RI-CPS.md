@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /RI-CPS/
-title: Cyber-physical Systems
-header: Cyber-physical Systems
+title: Cyber-Physical Systems
+header: Cyber-Physical Systems
 description: Advancing wireless networking for cyber-physical systems
 nav: false
 related_publications: true
