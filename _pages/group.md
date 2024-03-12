@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /group/
-title: Group
+title: Research Group
 description:  
 nav: false
 heading: Group

@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle:  <strong> Assistant Professor | Lecturer </strong> <br>School of CSIT | University College Cork
+subtitle:  <strong> Assistant Professor | Lecturer </strong> <br>School of Computer Science & IT <br> University College Cork
 #<br>School of Computer Science and Information Technology<br> University College Cork, Ireland 
 
 
