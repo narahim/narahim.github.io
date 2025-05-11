@@ -42,9 +42,8 @@ heading: Group
 }
 </style>
 
-# 🎓 Ph.D. Students
-
-## 🟩 Current
+# ⏳ Current Ph.D. Students
+<br>
 
 <div class="student-row">
   <div class="student-photo">
@@ -73,6 +72,19 @@ heading: Group
 
 <div class="student-row">
   <div class="student-photo">
+    <img src="/assets/img/students/anup.jpg" alt="Anup Marahatta">
+  </div>
+  <div class="student-details">
+    <a class="student-name" href="https://www.linkedin.com/in/anup-marahatta/?originalSubdomain=ie" target="_blank">Anup Marahatta</a><br>
+    <div class="student-meta">Tyndall National Institute &middot; <strong>Co-Supervisor</strong> &middot; Apr 2024 – Present</div>
+    <div class="student-topic">Development of Next-Generation Consumer Centric Grid-ready Smart Inverter</div>
+    <p>This project involves the design of smart inverters that adapt to consumer preferences while meeting real-time grid demands. It emphasizes AI-based energy control strategies, bidirectional communication, and interoperability with renewable energy sources.</p>
+  </div>
+</div>
+
+
+<div class="student-row">
+  <div class="student-photo">
     <img src="/assets/img/students/arif.jpg" alt="Arif Hossan">
   </div>
   <div class="student-details">
@@ -84,17 +96,7 @@ heading: Group
   </div>
 </div>
 
-<div class="student-row">
-  <div class="student-photo">
-    <img src="/assets/img/students/anup.jpg" alt="Anup Marahatta">
-  </div>
-  <div class="student-details">
-    <a class="student-name" href="https://www.linkedin.com/in/anup-marahatta/?originalSubdomain=ie" target="_blank">Anup Marahatta</a><br>
-    <div class="student-meta">Tyndall National Institute &middot; <strong>Co-Supervisor</strong> &middot; Apr 2024 – Present</div>
-    <div class="student-topic">Development of Next-Generation Consumer Centric Grid-ready Smart Inverter</div>
-    <p>This project involves the design of smart inverters that adapt to consumer preferences while meeting real-time grid demands. It emphasizes AI-based energy control strategies, bidirectional communication, and interoperability with renewable energy sources.</p>
-  </div>
-</div>
+
 
 <div class="student-row">
   <div class="student-photo">
@@ -108,7 +110,7 @@ heading: Group
   </div>
 </div>
 
-## 📕 Completed
+# 🎓 Former Ph.D. Students
 
 
 <div class="student-row">
@@ -125,7 +127,7 @@ heading: Group
 
 ---
 
-# 🎓 Current Master's Project Students
+# 💡 Current Master's Project Students
 
 - **Ninglin OU** – *Reducing the Carbon Footprint of Electric Vehicle Charging*
 - **Sudeep Nair** – *Cooperative Fountain Code for Enhanced UAV Video Transmission*
