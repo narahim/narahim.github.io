@@ -42,7 +42,7 @@ heading: Group
 }
 </style>
 
-# ⏳ Current Ph.D. Students
+# ⏳ Current PhD Students
 <br>
 
 <div class="student-row">
@@ -110,7 +110,7 @@ heading: Group
   </div>
 </div>
 
-# 🎓 Former Ph.D. Students
+# 🎓 Former PhD Students
 
 
 <div class="student-row">
