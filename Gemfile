@@ -18,9 +18,9 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'logger'
     gem 'observer'
-    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'execjs'
 end
 group :other_plugins do
     gem 'feedjira'
