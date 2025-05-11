@@ -121,7 +121,7 @@ heading: Group
     <a class="student-name" href="https://www.researchgate.net/profile/Xiaoxi-Yu-9" target="_blank">Yu Xiaoxi</a><br>
     <div class="student-meta">Nanyang Technological University &middot; <strong>Co-Supervisor</strong> &middot; Jun 2019 – Jan 2024</div>
     <div class="student-topic">Analysis and Design of Anytime Codes</div>
-    <p>his research focused on coding schemes that support progressive data decoding over unreliable channels, particularly in streaming and control feedback applications. It addressed challenges in latency, complexity, and error resilience, paving the way for robust low-delay communications.</p>
+    <p>This research focused on coding schemes that support progressive data decoding over unreliable channels, particularly in streaming and control feedback applications. It addressed challenges in latency, complexity, and error resilience, paving the way for robust low-delay communications.</p>
   </div>
 </div>
 
