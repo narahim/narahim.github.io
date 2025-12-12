@@ -29,10 +29,11 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/v2x/multi-link-v2x" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/v2x/uav_v2x_coverage.jpg" title="UAV-assisted V2X" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
+    UAV relay nodes extending V2X coverage in urban environments.
 </div>
 
 
