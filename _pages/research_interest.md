@@ -5,7 +5,10 @@ nav: true
 nav_order: 4
 dropdown: true
 children:
-  - title: 6G Vehicular Networks
+  - title: Integration of TN and NTN
+    permalink: /RI-TN-NTN/
+  - title: divider
+  - title: Intelligent Transportation System
     permalink: /RI-6G-V2X/
   - title: divider
   - title: Cyber-Physical Systems

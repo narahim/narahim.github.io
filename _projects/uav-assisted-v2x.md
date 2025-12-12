@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "SuHSI"
-header: <a href="https://www.ierc.ie/research/suhsi/">SuHSI</a>
-description: <a href='https://www.ierc.ie/research/suhsi/'>Super Home Smart Inverter for Irish Electricity Network</a>
-card_description: Super Home Smart Inverter for Irish Electricity Network 
-img: assets/img/SuHSI.jpg
-importance: 6
+title: "UAV-V2X"
+header: UAV-V2X
+description: UAV Placement for Enhanced Coverage in Urban Areas
+card_description: UAV Placement for Enhanced Coverage in Urban Areas
+img: assets/img/v2x/v2x-1.jpg
+importance: 5
 category: Current Projects
-related_publications: false
+related_publications: true
 ---
 
 
@@ -15,13 +15,13 @@ related_publications: false
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 20px; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <div style="margin: 10px 0;">
-    <strong>Project Timeline:</strong> January 2024 – December 2026
+    <strong>Project Timeline:</strong> April 2024 – March 2028
   </div>
   <div style="margin: 10px 0;">
-    <strong>Funding Body:</strong> Sustainable Energy Authority of Ireland (SEAI) RD&D Funding Programme
+    <strong>Funding Body:</strong> ADVANCE CRT: Doctoral Centre for Research Training in Advanced Networks for Sustainable Societies
   </div>
   <div style="margin: 10px 0;">
-    <strong>Role:</strong> Collaborator
+    <strong>Role:</strong> Principal Investigator
   </div>
 </div>
 
@@ -29,7 +29,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SuHSI-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/v2x/multi-link-v2x" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,16 +37,18 @@ related_publications: false
 
 
 <div style="text-align: justify; line-height: 1.8;">
-    <p>To accelerate the decarbonisation of integrated energy systems, conventional homes are being upgraded to "Super Homes" by introducing Distributed Energy Resources (DERs). This transformation is essential for a sustainable future but requires advanced management systems to handle the complexity of modern energy grids.</p>
+    <p>This project explores the strategic placement of Unmanned Aerial Vehicles (UAVs) to assist V2X communications, addressing coverage gaps in dense urban environments {% cite a9779322 %}. Urban canyons and high-rise buildings often obstruct direct communication links, leading to signal degradation and connectivity loss.</p>
+
+    <p>We propose using UAVs as flexible, aerial relays to bridge these gaps and extend network coverage. By employing multi-objective optimization algorithms, we determine the optimal 3D placement of UAVs to ensure line-of-sight (LoS) connectivity for the maximum number of vehicles.</p>
 
     <ul style="list-style: none; padding-left: 0;">
         <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
             <span style="position: absolute; left: 0; color: #2E86C1;">&#10003;</span>
-            <strong>Distributed Energy Resources (DERs):</strong> Integration of Solar PV, Energy Storage, Heat Pumps, and Electric Vehicles.
+            <strong>UAV Relays:</strong> Aerial nodes that dynamically reposition to maintain connectivity.
         </li>
         <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
             <span style="position: absolute; left: 0; color: #2E86C1;">&#10003;</span>
-            <strong>Smart Inverter Technology:</strong> Advanced inverters capable of seamless grid integration and management.
+            <strong>Multi-Objective Optimization:</strong> Algorithms to balance coverage, connectivity, and energy efficiency.
         </li>
     </ul>
 
@@ -55,20 +57,17 @@ related_publications: false
         <ul style="list-style: none; padding-left: 0; margin: 0;">
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Developing a smart inverter compatible with the Irish Low Voltage Distribution Network (LVDN).
+                Optimizing UAV positioning to overcome blockage challenges {% cite a9186820 %}.
             </li>
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Designing an efficient home energy management system to lower consumer costs.
+                Maximizing connectivity reliability where terrestrial infrastructure is insufficient.
             </li>
             <li style="padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Empowering energy citizens and expediting the adoption of DERs to reduce carbon emissions.
+                Supporting high-throughput applications for next-generation intelligent transportation systems.
             </li>
         </ul>
     </div>
 </div>
-
-
-
 

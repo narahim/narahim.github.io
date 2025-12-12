@@ -110,6 +110,18 @@ heading: Group
   </div>
 </div>
 
+<div class="student-row">
+  <div class="student-photo">
+    <img src="/assets/img/students/kouros.png" alt="Kouros Zanbouri">
+  </div>
+  <div class="student-details">
+    <a class="student-name" href="#" target="_blank">Kouros Zanbouri</a><br>
+    <div class="student-meta">University College Cork &middot; <strong>Co-Supervisor</strong> &middot; Jan 2023 – Present</div>
+    <div class="student-topic">Managing Heterogeneous Traffic in 5G-Time Sensitive Networks for Industrial Applications</div>
+    <p>This project addresses the convergence of 5G and Time-Sensitive Networking (TSN) for next-generation industrial automation, adapting to harsh wireless environments while guaranteeing deterministic performance. It emphasizes stochastic network optimization for heterogeneous traffic management, leveraging realistic 3GPP Indoor Factory channel modeling to ensure the seamless coexistence of URLLC, eMBB and mMTC flows on the factory floor.</p>
+  </div>
+</div>
+
 # 🎓 Former PhD Students
 
 

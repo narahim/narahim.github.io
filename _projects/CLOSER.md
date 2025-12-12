@@ -1,52 +1,48 @@
 ---
 layout: page
-title: "SuHSI"
-header: <a href="https://www.ierc.ie/research/suhsi/">SuHSI</a>
-description: <a href='https://www.ierc.ie/research/suhsi/'>Super Home Smart Inverter for Irish Electricity Network</a>
-card_description: Super Home Smart Inverter for Irish Electricity Network 
-img: assets/img/SuHSI.jpg
-importance: 6
+title: "CLOSER"
+header: CLOSER
+description: Context-aware Satellite Networks for Disaster Management and Emergency Response
+card_description: Satellite Networks for Disaster Management
+img: assets/img/closer_project.png
+importance: 2
 category: Current Projects
 related_publications: false
 ---
 
-
-
-
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 20px; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <div style="margin: 10px 0;">
-    <strong>Project Timeline:</strong> January 2024 – December 2026
+    <strong>Project Timeline:</strong> April 2025 – March 2029
   </div>
   <div style="margin: 10px 0;">
-    <strong>Funding Body:</strong> Sustainable Energy Authority of Ireland (SEAI) RD&D Funding Programme
+    <strong>Funding Body:</strong> University College Cork (UCC) and CONNECT Centre, Research Ireland
   </div>
   <div style="margin: 10px 0;">
-    <strong>Role:</strong> Collaborator
+    <strong>Role:</strong> Principal Investigator
   </div>
 </div>
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SuHSI-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/closer_concept.jpg" title="CLOSER Project" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
 </div>
 
-
 <div style="text-align: justify; line-height: 1.8;">
-    <p>To accelerate the decarbonisation of integrated energy systems, conventional homes are being upgraded to "Super Homes" by introducing Distributed Energy Resources (DERs). This transformation is essential for a sustainable future but requires advanced management systems to handle the complexity of modern energy grids.</p>
+    <p><strong>CLOSER</strong> (Context-aware Satellite Networks for Disaster Management and Emergency Response) addresses the critical need for reliable communication infrastructure when terrestrial networks fail. In the wake of natural disasters like hurricanes, floods, or earthquakes, maintaining connectivity is vital for coordinating rescue efforts and saving lives.</p>
+
+    <p>This project focuses on developing context-aware satellite networks that can dynamically adapt to the changing needs of a disaster zone. By integrating Low Earth Orbit (LEO) satellites with ground-based emergency networks, CLOSER aims to provide robust, high-bandwidth connectivity to first responders and affected communities.</p>
 
     <ul style="list-style: none; padding-left: 0;">
         <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
             <span style="position: absolute; left: 0; color: #2E86C1;">&#10003;</span>
-            <strong>Distributed Energy Resources (DERs):</strong> Integration of Solar PV, Energy Storage, Heat Pumps, and Electric Vehicles.
+            <strong>Low Earth Orbit (LEO) Satellites:</strong> Leveraging LEO constellations for low-latency, high-coverage backhaul.
         </li>
         <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
             <span style="position: absolute; left: 0; color: #2E86C1;">&#10003;</span>
-            <strong>Smart Inverter Technology:</strong> Advanced inverters capable of seamless grid integration and management.
+            <strong>Ground-Based Emergency Networks:</strong> Rapidly deployable networks that interface seamlessly with satellite links.
         </li>
     </ul>
 
@@ -55,20 +51,16 @@ related_publications: false
         <ul style="list-style: none; padding-left: 0; margin: 0;">
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Developing a smart inverter compatible with the Irish Low Voltage Distribution Network (LVDN).
+                Exploration of intelligent routing protocols for dynamic topologies.
             </li>
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Designing an efficient home energy management system to lower consumer costs.
+                Development of resource allocation strategies for critical communications.
             </li>
             <li style="padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Empowering energy citizens and expediting the adoption of DERs to reduce carbon emissions.
+                Implementation of seamless handover mechanisms for continuous service availability.
             </li>
         </ul>
     </div>
 </div>
-
-
-
-

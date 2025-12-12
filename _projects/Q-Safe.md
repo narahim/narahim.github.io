@@ -1,52 +1,48 @@
 ---
 layout: page
-title: "SuHSI"
-header: <a href="https://www.ierc.ie/research/suhsi/">SuHSI</a>
-description: <a href='https://www.ierc.ie/research/suhsi/'>Super Home Smart Inverter for Irish Electricity Network</a>
-card_description: Super Home Smart Inverter for Irish Electricity Network 
-img: assets/img/SuHSI.jpg
-importance: 6
+title: "Q-Safe"
+header: Q-Safe
+description: Quantum Safe Hardware Security Design
+card_description: Quantum Safe Hardware Security Design
+img: assets/img/q_safe_project.png
+importance: 3
 category: Current Projects
 related_publications: false
 ---
 
-
-
-
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 20px; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <div style="margin: 10px 0;">
-    <strong>Project Timeline:</strong> January 2024 – December 2026
+    <strong>Project Timeline:</strong> April 2025 – March 2029
   </div>
   <div style="margin: 10px 0;">
-    <strong>Funding Body:</strong> Sustainable Energy Authority of Ireland (SEAI) RD&D Funding Programme
+    <strong>Funding Body:</strong> University College Cork (UCC) and CONNECT Centre, Research Ireland
   </div>
   <div style="margin: 10px 0;">
-    <strong>Role:</strong> Collaborator
+    <strong>Role:</strong> Co-Principal Investigator
   </div>
 </div>
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SuHSI-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/q_safe_concept.jpg" title="Q-Safe Project" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
 </div>
 
-
 <div style="text-align: justify; line-height: 1.8;">
-    <p>To accelerate the decarbonisation of integrated energy systems, conventional homes are being upgraded to "Super Homes" by introducing Distributed Energy Resources (DERs). This transformation is essential for a sustainable future but requires advanced management systems to handle the complexity of modern energy grids.</p>
+    <p><strong>Q-Safe</strong> focuses on developing cryptographic hardware architectures that are resistant to quantum attacks, ensuring long-term data security. As quantum computing advances, traditional cryptographic methods are becoming increasingly vulnerable, posing a significant threat to global cybersecurity.</p>
+
+    <p>This project aims to bridge the gap between theoretical post-quantum cryptography and practical hardware implementation. By embedding quantum-safe security at the hardware level, Q-Safe seeks to create a robust foundation for the next generation of secure connected devices.</p>
 
     <ul style="list-style: none; padding-left: 0;">
         <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
             <span style="position: absolute; left: 0; color: #2E86C1;">&#10003;</span>
-            <strong>Distributed Energy Resources (DERs):</strong> Integration of Solar PV, Energy Storage, Heat Pumps, and Electric Vehicles.
+            <strong>Post-Quantum Cryptography:</strong> Algorithms designed to be secure against the threats posed by quantum computers.
         </li>
         <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
             <span style="position: absolute; left: 0; color: #2E86C1;">&#10003;</span>
-            <strong>Smart Inverter Technology:</strong> Advanced inverters capable of seamless grid integration and management.
+            <strong>Lightweight Hardware Modules:</strong> Secure architectures optimized for resource-constrained IoT and embedded devices.
         </li>
     </ul>
 
@@ -55,20 +51,16 @@ related_publications: false
         <ul style="list-style: none; padding-left: 0; margin: 0;">
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Developing a smart inverter compatible with the Irish Low Voltage Distribution Network (LVDN).
+                Rigorous evaluation of post-quantum algorithms.
             </li>
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Designing an efficient home energy management system to lower consumer costs.
+                Design of secure hardware modules for IoT.
             </li>
             <li style="padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Empowering energy citizens and expediting the adoption of DERs to reduce carbon emissions.
+                Bridging the gap between theory and practical implementation.
             </li>
         </ul>
     </div>
 </div>
-
-
-
-
