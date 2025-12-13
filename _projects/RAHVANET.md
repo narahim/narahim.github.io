@@ -25,7 +25,7 @@ related_publications: true
 <div style="text-align: justify; line-height: 1.8;">
     <p>DSRC and cellular techniques have their respective advantages and limitations when used in vehicular environments. As a result, an integration of such heterogeneous vehicular networks bears promise to exploit their unique benefits, while addressing their drawbacks.</p>
 
-    <p>This proposal is focused on resource allocation for heterogeneous vehicular networks to utilize the resources of each network effectively and to enable high-speed communication between vehicles. We aim to develop the proposed resource allocation scheme based on cross layer optimization in each standard, which will jointly optimize the physical and MAC layers performance of the heterogeneous vehicular network.</p>
+    <p>This proposal is focused on resource allocation for heterogeneous vehicular networks to utilize the resources of each network effectively and to enable high-speed communication between vehicles. We aim to develop the proposed resource allocation scheme based on cross layer optimization in each standard, which will jointly optimize the physical and MAC layers performance of the heterogeneous vehicular network {% cite a9186820 %}.</p>
 
     <ul style="list-style: none; padding-left: 0;">
         <li style="margin-bottom: 15px; padding-left: 25px; position: relative;">
