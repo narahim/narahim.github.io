@@ -7,7 +7,6 @@ card_description: VOI-based Cooperative Perception for Enhanced Safety
 img: assets/img/v2x/v2x-2.jpg
 importance: 4
 category: Current Projects
-related_publications: true
 ---
 
 
@@ -37,7 +36,7 @@ related_publications: true
 
 
 <div style="text-align: justify; line-height: 1.8;">
-    <p>This project focuses on Value of Information (VoI)-based cooperative perception strategies, marking a crucial advancement towards safer autonomous driving {% cite a9779322 %}. In the era of connected and autonomous vehicles (CAVs), the sheer volume of sensor data generated can overwhelm communication networks.</p>
+    <p>This project focuses on Value of Information (VoI)-based cooperative perception strategies, marking a crucial advancement towards safer autonomous driving. In the era of connected and autonomous vehicles (CAVs), the sheer volume of sensor data generated can overwhelm communication networks.</p>
 
     <p>Our research addresses this by developing intelligent mechanisms to filter and prioritize data based on its "value" for safety-critical tasks. By enabling vehicles to share perception data intelligently, we aim to reduce collisions and accidents in complex traffic scenarios, ensuring robust and reliable connectivity.</p>
 

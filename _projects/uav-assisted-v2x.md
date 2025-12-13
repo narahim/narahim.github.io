@@ -7,7 +7,7 @@ card_description: UAV Placement for Enhanced Coverage in Urban Areas
 img: assets/img/v2x/v2x-1.jpg
 importance: 5
 category: Current Projects
-related_publications: true
+related_publications: false
 ---
 
 
@@ -38,7 +38,7 @@ related_publications: true
 
 
 <div style="text-align: justify; line-height: 1.8;">
-    <p>This project explores the strategic placement of Unmanned Aerial Vehicles (UAVs) to assist V2X communications, addressing coverage gaps in dense urban environments {% cite a9779322 %}. Urban canyons and high-rise buildings often obstruct direct communication links, leading to signal degradation and connectivity loss.</p>
+    <p>This project explores the strategic placement of Unmanned Aerial Vehicles (UAVs) to assist V2X communications, addressing coverage gaps in dense urban environments. Urban canyons and high-rise buildings often obstruct direct communication links, leading to signal degradation and connectivity loss.</p>
 
     <p>We propose using UAVs as flexible, aerial relays to bridge these gaps and extend network coverage. By employing multi-objective optimization algorithms, we determine the optimal 3D placement of UAVs to ensure line-of-sight (LoS) connectivity for the maximum number of vehicles.</p>
 
@@ -58,7 +58,7 @@ related_publications: true
         <ul style="list-style: none; padding-left: 0; margin: 0;">
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
-                Optimizing UAV positioning to overcome blockage challenges {% cite a9186820 %}.
+                Optimizing UAV positioning to overcome blockage challenges.
             </li>
             <li style="margin-bottom: 8px; padding-left: 20px; position: relative;">
                 <span style="position: absolute; left: 0; color: #2E86C1;">&bull;</span>
