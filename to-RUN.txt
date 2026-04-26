@@ -1,3 +1,13 @@
 
 
 docker compose up
+
+
+
+
+After edit:
+
+
+git commit -am "c1"
+
+git push
