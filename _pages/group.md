@@ -47,6 +47,18 @@ heading: Group
 
 <div class="student-row">
   <div class="student-photo">
+    <img src="/assets/img/students/al-imran.jpg" alt="Al-Imran">
+  </div>
+  <div class="student-details">
+    <a class="student-name" href="https://scholar.google.com/citations?user=mNDK6j0AAAAJ&hl=en" target="_blank">Al-Imran</a><br>
+    <div class="student-meta">University College Cork &middot; <strong>Principal Supervisor</strong> &middot; Apr 2026 – Present</div>
+    <div class="student-topic">IRS-Assisted Joint Communication and Localization for Next-Generation Wireless Networks</div>
+    <p>This research investigates the use of Intelligent Reflecting Surfaces (IRS) to jointly enhance communication and localization performance in next-generation wireless networks. It focuses on reconfiguring the propagation environment to improve spectral efficiency and positioning accuracy simultaneously, enabling reliable connectivity and precise location awareness for 6G and beyond.</p>
+  </div>
+</div>
+
+<div class="student-row">
+  <div class="student-photo">
     <img src="/assets/img/students/siam2.jpg" alt="Shafkat Khan Siam">
   </div>
   <div class="student-details">
