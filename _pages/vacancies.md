@@ -8,6 +8,10 @@ nav_order: 6
 heading: Information for prospective students and post-docs
 ---
 
+### [Internal UCC candidates only: Grant-Writing Assistants — Project Aurora]({{ '/vacancies/aurora/' | relative_url }})
+
+---
+
 If interested in joining my group, here's some useful information. Please contact me (<a href="mailto:m.rahim@cs.ucc.ie">m.rahim@cs.ucc.ie</a>) if you'd like to apply for any of the following opportunities.
 
 
